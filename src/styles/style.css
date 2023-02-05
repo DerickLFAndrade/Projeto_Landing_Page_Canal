@@ -10,6 +10,18 @@ header{
     flex-direction: row;
     justify-content: space-between;
 }
+header div {
+    display: flex;
+    align-items: center;
+}
+header img {
+    max-width: 100px;
+}
+header section {
+    font-size: 30px;
+    margin-left: 10px;
+    line-height: 5px;
+}
 ul{
     display: flex;
     align-items: center;
