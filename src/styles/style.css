@@ -6,6 +6,7 @@ body {
     margin: 0;
     background-image: url("/Projeto_1/src/images/Arte de canal do YouTube CRIPTOBR (2).png");
     background-size: 100%;
+    
 }
 header{
     display: flex;
@@ -21,7 +22,7 @@ header div {
 header img {
     z-index: -1000;
     position: absolute;
-    max-width: 150px;
+    max-width: 100px;
 }
 header section{
     font-size: 30px;
