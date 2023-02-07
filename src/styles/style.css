@@ -15,11 +15,13 @@ header div {
     align-items: center;
 }
 header img {
-    max-width: 100px;
+    z-index: -1000;
+    position: absolute;
+    max-width: 150px;
 }
-header section {
+header section{
     font-size: 30px;
-    margin-left: 10px;
+    margin-left: 100px;
     line-height: 5px;
 }
 ul{
