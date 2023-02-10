@@ -96,8 +96,3 @@ footer {
     bottom: 0;
     position: fixed;
 }
-.footerClasso {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-}
